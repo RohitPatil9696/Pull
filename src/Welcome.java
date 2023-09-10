@@ -5,6 +5,8 @@ public class Welcome {
 		// TODO Auto-generated method stub
 	     System.out.println("Welcome to Bharat"); 
 	     System.out.println("Welcome to Bharat1"); 
+	     System.out.println("Welcome to Bharat"); 
+	     System.out.println("Welcome to Bharat1"); 
 	}
 
 }
